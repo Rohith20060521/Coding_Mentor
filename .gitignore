@@ -1,0 +1,18 @@
+# Python virtual env
+coding-llm/ai/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model
+coding-llm/qwen-coding-model/
+
+# Database
+coding-llm/nextrus.db
+
+# React
+coding-ai-ui/node_modules/
+
+# Environment variables
+.env
